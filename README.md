@@ -22,8 +22,6 @@
 		Trends	
 		Sales in different States	
 			
-		Your Task is to select the right charts and prepare a Dashboard for the Top management.	
-		The sample wireframe is pasted below.	
-		It should also incorporate the Slice & dice feature on FY, Chain & State	
+
 			
 ![image](https://user-images.githubusercontent.com/112975498/189428074-b4d547be-9b44-4d45-ac42-24808bdcd019.png)
