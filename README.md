@@ -24,4 +24,3 @@
 			
 
 			
-![image](https://user-images.githubusercontent.com/112975498/189428074-b4d547be-9b44-4d45-ac42-24808bdcd019.png)
